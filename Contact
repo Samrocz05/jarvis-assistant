@@ -1,0 +1,8 @@
+
+### **Instructions**
+
+1. **Create `requirements.txt`**: Save the provided `requirements.txt` file in the `model_loading` directory.
+
+2. **Create `README.md`**: Save the provided `README.md` file in the root directory of your project.
+
+This setup will help you manage dependencies and provide clear documentation for setting up and using your Jarvis Assistant project.
